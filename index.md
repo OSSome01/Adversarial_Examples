@@ -11,7 +11,7 @@ But was it really a manufacturing defect? The answer is no. When the Tesla engin
 {: style="text-align: justify" }
 So whom to blame, was it the AI model that couldn’t read the signboard accurately or the lack of proper model training by the highly qualified Engineers at Tesla? So the answer once again is no one. It was an adversarial attack purposefully planned by some nerd to trick the AI model of Tesla cars. Adversarial attacks basically force the neural network model to classify or predict the outcome of a particular thing which is totally incorrect. This is achieved by various means, one of which is by adding noise to the image. For example, If we take an image of a duck, add noise at specific positions and then pass it through the neural networks model, it will classify the image as that of a Horse, as depicted in the illustration below. Another situation can be when the AI voice model yields a completely different sentence due to the noise added to the original voice note passed to it. To understand this better, let us dive deeper into these attacks.
 
-{: style="text-align: justify" }
+{: style="text-align: center" }
 ![image](https://github.com/OSSome01/Adversarial_Examples/blob/master/images/Capture.PNG?raw=true)
 
 {: style="text-align: justify" }
