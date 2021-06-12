@@ -1,5 +1,7 @@
+{: style="text-align: centre" }
 # Adversarial Attacks
 
+{: style="text-align: center" }
 ### Can we rely on self-driving cars?
 
 {: style="text-align: justify" }
