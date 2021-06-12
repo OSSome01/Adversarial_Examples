@@ -1,6 +1,6 @@
 # Adversarial Attacks
 
-## Can we rely on self-driving cars?
+### Can we rely on self-driving cars?
 
 {: style="text-align: justify" }
 Imagine you just bought a Tesla Model S, the all-tech car with the preeminent ‘Auto-Pilot’ feature, and took it out on a long drive along the countryside. It’s you, your Tesla, and no one around. You opt to take a chill pill and leave it all on the car to handle the steering. You switch on the Auto-pilot feature and lean back while sipping your favorite coffee or tea (or green tea, the “health-conscious” option), totally relying on the car to carry you to your destination. It was all smooth sailing when suddenly the car goes haywire increasing its speed beyond the permissible limit of 30 kmph. By the time you become aware of the situation and take back control, a traffic cop pulls you over and issues an overspeeding ticket. You are bewildered by everything that just happened and think of it as some manufacturing defect that the car has and take it on yourself to sue Tesla for the mishap.
